@@ -11,3 +11,7 @@ deploy project
 editing more for changes.ie for the 2nd time
 
 para new
+
+<H2>this is for the staging area<H2>
+
+this is 4th time
