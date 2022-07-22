@@ -15,3 +15,5 @@ para new
 <H2>this is for the staging area<H2>
 
 this is 4th time
+
+adding more txt for rebase demo
