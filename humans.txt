@@ -13,4 +13,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr,java,sql
-    data warehousing,aws,mysql
+    data warehousing,aws
